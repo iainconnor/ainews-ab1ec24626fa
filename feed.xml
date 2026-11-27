@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI News for Iain</title>
+    <link>https://iainconnor.github.io/ainews-ab1ec24626fa/</link>
+    <atom:link href="https://iainconnor.github.io/ainews-ab1ec24626fa/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private weekday-morning spoken briefing on AI for a startup CTO: new models, coding agents and dev tools, open and self-hosted models, and startup moves.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2026 14:30:53 +0000</lastBuildDate>
+    <itunes:author>AI News</itunes:author>
+    <itunes:summary>A private weekday-morning spoken briefing on AI for a startup CTO: new models, coding agents and dev tools, open and self-hosted models, and startup moves.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:owner><itunes:name>AI News</itunes:name></itunes:owner>
+    <itunes:image href="https://iainconnor.github.io/ainews-ab1ec24626fa/cover.jpg"/>
+    <image><url>https://iainconnor.github.io/ainews-ab1ec24626fa/cover.jpg</url><title>AI News for Iain</title><link>https://iainconnor.github.io/ainews-ab1ec24626fa/</link></image>
+    <item>
+      <title>Deep dive: Harness Engineering, Part 2: The human is the loop</title>
+      <description>Hello Iain. This is a deep dive from AI News, walking through part two of Anton Sizikov's Harness Engineering series, published on his Cloud Eng blog on November twenty-fifth. The post is called The human is the loop. As in part one, Anton works at GitHub, and he notes that the opinions are his own. Part one mapped four stages of AI-assisted work, from IDE first sessions to software factories. Par</description>
+      <itunes:summary>Hello Iain. This is a deep dive from AI News, walking through part two of Anton Sizikov's Harness Engineering series, published on his Cloud Eng blog on November twenty-fifth. The post is called The human is the loop. As in part one, Anton works at GitHub, and he notes that the opinions are his own. Part one mapped four stages of AI-assisted work, from IDE first sessions to software factories. Par</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 14:30:53 +0000</pubDate>
+      <guid isPermaLink="false">ainews-2026-11-27-harness-engineering-part-2</guid>
+      <enclosure url="https://iainconnor.github.io/ainews-ab1ec24626fa/episodes/2026-11-27-harness-engineering-part-2.mp3" length="6994799" type="audio/mpeg"/>
+      <itunes:duration>00:09:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Deep dive: Harness Engineering, Part 1: Evolution of AI-assisted workflows</title>
+      <description>Hello Iain. This is a deep dive from AI News, walking through part one of Anton Sizikov's Harness Engineering series, published on his Cloud Eng blog on November twenty-fourth. The post is called Evolution of AI-assisted workflows. Anton works at GitHub, and he notes that the views are his own. He uses GitHub Copilot as his main example, but says many of the techniques apply to other agents too. H</description>
+      <itunes:summary>Hello Iain. This is a deep dive from AI News, walking through part one of Anton Sizikov's Harness Engineering series, published on his Cloud Eng blog on November twenty-fourth. The post is called Evolution of AI-assisted workflows. Anton works at GitHub, and he notes that the views are his own. He uses GitHub Copilot as his main example, but says many of the techniques apply to other agents too. H</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 14:29:33 +0000</pubDate>
+      <guid isPermaLink="false">ainews-2026-11-27-harness-engineering-part-1</guid>
+      <enclosure url="https://iainconnor.github.io/ainews-ab1ec24626fa/episodes/2026-11-27-harness-engineering-part-1.mp3" length="6450617" type="audio/mpeg"/>
+      <itunes:duration>00:08:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI News, Friday November 27: OpenRouter provider routing, Inkling 2 Mini and your week's to-dos</title>
+      <description>Good morning Iain. It's Friday, November 27th, and this is your AI News briefing, with the week's to-do list at the end. The big story is for anyone routing open models through OpenRouter. An investigation published on Wednesday traced some DeepSeek traffic on Novita and StreamLake, two OpenRouter providers, to ByteDance's Ark and Volcano Engine infrastructure, based on matching request IDs, tool </description>
+      <itunes:summary>Good morning Iain. It's Friday, November 27th, and this is your AI News briefing, with the week's to-do list at the end. The big story is for anyone routing open models through OpenRouter. An investigation published on Wednesday traced some DeepSeek traffic on Novita and StreamLake, two OpenRouter providers, to ByteDance's Ark and Volcano Engine infrastructure, based on matching request IDs, tool </itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 13:10:38 +0000</pubDate>
+      <guid isPermaLink="false">ainews-2026-11-27-edition-02</guid>
+      <enclosure url="https://iainconnor.github.io/ainews-ab1ec24626fa/episodes/2026-11-27-edition-02.mp3" length="2571119" type="audio/mpeg"/>
+      <itunes:duration>00:03:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI News, Thursday November 26: Claude Ship, GLM-5.4 and a dark factory</title>
+      <description>Good morning Iain. This is your first AI News briefing, for Thursday, November 26th. The big story is Claude Ship. Anthropic launched it in beta for Claude Team and Enterprise on GitHub. It pairs Code Review, now generally available, with two new agents. P R Steward handles failing C I, merge conflicts and review feedback. Claude Approvals can approve routine changes against a policy file in your </description>
+      <itunes:summary>Good morning Iain. This is your first AI News briefing, for Thursday, November 26th. The big story is Claude Ship. Anthropic launched it in beta for Claude Team and Enterprise on GitHub. It pairs Code Review, now generally available, with two new agents. P R Steward handles failing C I, merge conflicts and review feedback. Claude Approvals can approve routine changes against a policy file in your </itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 15:28:24 +0000</pubDate>
+      <guid isPermaLink="false">ainews-2026-11-26-edition-01</guid>
+      <enclosure url="https://iainconnor.github.io/ainews-ab1ec24626fa/episodes/2026-11-26-edition-01.mp3" length="2319404" type="audio/mpeg"/>
+      <itunes:duration>00:03:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
